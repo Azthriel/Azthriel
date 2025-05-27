@@ -8,7 +8,7 @@ I'm a passionate **Flutter developer** with a deep focus on backend engineering,
 ## 🚀 About Me
 
 - 🧑‍💻 **Profession:** Flutter Developer & Software Engineer
-- 🏢 **Founder at [Quarks Studio](https://quarks-studio.com):**  
+- 🏢 **Co-Founder at [Quarks Studio](https://quarks-studio.com):**  
   I founded Quarks Studio to empower companies, individuals, and entrepreneurs with personalized software solutions. We specialize in crafting impactful, tailored applications that bring your ideas to life.
 - 🛠️ **Expertise:**  
   - Backend Development  
@@ -19,7 +19,7 @@ I'm a passionate **Flutter developer** with a deep focus on backend engineering,
 
 ## 🌟 Featured Projects
 
-### [Quarks Studio](https://quarks-studio.com)
+### [Quarks Studio](https://github.com/Quarks-Studio/QuarksWeb)
 Building personalized software for modern needs—whether you’re a business, a creator, or an innovator.  
 Let’s create something amazing together!
 
