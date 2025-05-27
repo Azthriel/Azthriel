@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Azthriel!
 
-<!--
-**Azthriel/Azthriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a passionate **Flutter developer** with a deep focus on backend engineering, robust app development, and efficient engineering processes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🧑‍💻 **Profession:** Flutter Developer & Software Engineer
+- 🏢 **Founder at [Quarks Studio](https://quarks-studio.com):**  
+  I founded Quarks Studio to empower companies, individuals, and entrepreneurs with personalized software solutions. We specialize in crafting impactful, tailored applications that bring your ideas to life.
+- 🛠️ **Expertise:**  
+  - Backend Development  
+  - Flutter & Mobile App Development  
+  - Engineering Processes & Best Practices
+
+---
+
+## 🌟 Featured Project
+
+### [Quarks Studio](https://quarks-studio.com)
+Building personalized software for modern needs—whether you’re a business, a creator, or an innovator.  
+Let’s create something amazing together!
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/gonzalo-trillo-2976282a7)
+- [Quarks Studio](https://quarks-studio.com)
+
+---
+
+## 😸 Fun Facts
+
+- 🏕️ I’ve been a Scout since I was 6 years old—teamwork, resilience, and adventure are part of who I am!
+- 🐾 Proud cat parent to **Lexie** and **Lilith**.
+
+---
+
+> “Great software is crafted with passion, precision, and a personal touch.”
+
+Thanks for stopping by!  
+Feel free to explore my repositories or reach out if you’d like to collaborate.
