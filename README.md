@@ -17,11 +17,17 @@ I'm a passionate **Flutter developer** with a deep focus on backend engineering,
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 ### [Quarks Studio](https://quarks-studio.com)
 Building personalized software for modern needs—whether you’re a business, a creator, or an innovator.  
 Let’s create something amazing together!
+
+### [CaldenSmart](https://github.com/Azthriel/CaldenSmart)
+A cross-platform (iOS & Android) app for controlling IoT devices easily and efficiently.
+
+### [San Pablo Apóstol](https://github.com/Azthriel/San-Pablo-Apostol)
+A web app designed for my Scout group to manage events and maintain a comprehensive activity registry.
 
 ---
 
